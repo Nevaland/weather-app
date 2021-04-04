@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Weather App on React Native",
+    "githubUrl": "https://github.com/Nevaland/weather-app"
   }
 }
